@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305531634263",
+    "firebase_url": "https://auction-handler.firebaseio.com",
+    "project_id": "auction-handler",
+    "storage_bucket": "auction-handler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305531634263:android:798c6c7c5c5a180b809912",
+        "android_client_info": {
+          "package_name": "com.example.auction_handler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305531634263-rhq4prcsc3m8uhik77jspnek0d52klpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqNV7IMca1H9BygWhrAy6iP5Xn4fpgdTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305531634263-rhq4prcsc3m8uhik77jspnek0d52klpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
